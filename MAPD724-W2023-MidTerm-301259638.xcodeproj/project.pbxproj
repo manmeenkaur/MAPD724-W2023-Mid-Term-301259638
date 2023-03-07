@@ -171,6 +171,7 @@
 		A3503B6C29B7043900031465 /* engine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = engine.mp3; sourceTree = "<group>"; };
 		A3503B6E29B7044C00031465 /* thunder.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thunder.mp3; sourceTree = "<group>"; };
 		A3503B7029B7045200031465 /* yay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yay.mp3; sourceTree = "<group>"; };
+		A3503B7429B713C900031465 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +204,7 @@
 		A350394829B6F8F100031465 /* MAPD724-W2023-MidTerm-301259638 */ = {
 			isa = PBXGroup;
 			children = (
+				A3503B7429B713C900031465 /* Info.plist */,
 				A3503B7229B7056100031465 /* Scenes */,
 				A3503B5429B6FF5B00031465 /* GameObjects */,
 				A3503B4D29B6FED400031465 /* Core */,
@@ -655,6 +657,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 22Z364Z68X;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "MAPD724-W2023-MidTerm-301259638/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Mail Pilot Game";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -686,6 +690,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 22Z364Z68X;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "MAPD724-W2023-MidTerm-301259638/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Mail Pilot Game";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
